@@ -3,6 +3,7 @@ Aethermobi is a powerful (up to 1W) nRF52840 based Reticulum RNode. It uses a CD
 two 18650 Lithium batteries, QC3.0 fast charger module and a CDEBYTE TX433-JZLW-15 3dBi gain antenna 
 (https://www.cdebyte.com/products/TX433-JZLW-15).
 NOTE: USE LITHIUM CELLS WITH PROTECTION BOARDS.
+
 A web flasher, that can flash the aethernode - https://rns.moscow/flasher or https://flasher.aetherlab.org/
 Use FakeTek(Promicro) FW.
 
