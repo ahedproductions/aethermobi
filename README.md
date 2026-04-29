@@ -7,7 +7,5 @@ NOTE: USE LITHIUM CELLS WITH PROTECTION BOARDS.
 A web flasher, that can flash the aethernode - https://rns.moscow/flasher or https://flasher.aetherlab.org/
 Use FakeTek(Promicro) FW.
 
-![Screenshot 2026-04-06 122617](https://github.com/user-attachments/assets/2998962e-2826-4ba8-a2b0-4a83e03b72a7)
-
-Prototype in testing:
-![photo_2026-03-30_20-21-12](https://github.com/user-attachments/assets/33c5812a-ac0f-4ade-942c-858765f3b70a)
+<img width="807" height="658" alt="mobi1" src="https://github.com/user-attachments/assets/a53f9b09-b4e7-4313-92a6-78f196eb87ee" />
+<img width="1521" height="1264" alt="mobi2" src="https://github.com/user-attachments/assets/3f606b9e-97bc-46de-bb7c-c7d3a586429a" />
