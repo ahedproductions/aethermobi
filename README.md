@@ -8,4 +8,6 @@ A web flasher, that can flash the aethernode - https://rns.moscow/flasher or htt
 Use FakeTek(Promicro) FW.
 
 <img width="807" height="658" alt="mobi1" src="https://github.com/user-attachments/assets/a53f9b09-b4e7-4313-92a6-78f196eb87ee" />
-<img width="1521" height="1264" alt="mobi2" src="https://github.com/user-attachments/assets/3f606b9e-97bc-46de-bb7c-c7d3a586429a" />
+<img width="807" height="658" alt="mobi2" src="https://github.com/user-attachments/assets/3f606b9e-97bc-46de-bb7c-c7d3a586429a" />
+<img width="922" height="1224" alt="image" src="https://github.com/user-attachments/assets/8859892a-b7f4-481b-8f81-1ff987393030" />
+<img width="922" height="1224" alt="image" src="https://github.com/user-attachments/assets/e79c8d89-f5ae-4704-a1dd-0bd8381d1c1a" />
