@@ -11,3 +11,4 @@ Use FakeTek(Promicro) FW.
 <img width="807" height="658" alt="mobi2" src="https://github.com/user-attachments/assets/3f606b9e-97bc-46de-bb7c-c7d3a586429a" />
 <img width="922" height="1224" alt="image" src="https://github.com/user-attachments/assets/8859892a-b7f4-481b-8f81-1ff987393030" />
 <img width="922" height="1224" alt="image" src="https://github.com/user-attachments/assets/e79c8d89-f5ae-4704-a1dd-0bd8381d1c1a" />
+<img width="1428" height="1076" alt="IMG_20260516_152400_404" src="https://github.com/user-attachments/assets/1106dd1a-0b86-4799-89ce-278e535a0901" />
